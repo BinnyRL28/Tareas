@@ -1,5 +1,5 @@
 body{
-    text-align: center;
+    text-align: center
 }
 h1{
     font-family: fantasy;
@@ -19,10 +19,7 @@ h1{
 
 .contenedorPrincipal{
     display: flex;
-    width: 400px;
-   text-align: center;
-   margin-left: 550px;
-   margin-top: 25px;
+   justify-content: center;
 }
 input{
     width: 240px;
